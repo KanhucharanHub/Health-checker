@@ -111,4 +111,4 @@ Check logs with `sudo journalctl -u hid-health -f`.
 
 ---
 
-© 2025 Kanhu Charan. Licensed under the MIT License.
+© 2025 Karan. Licensed under the MIT License.
