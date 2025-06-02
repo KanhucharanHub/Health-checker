@@ -1,0 +1,11 @@
+# controllers.txt
+# List controller IP addresses one per line.
+# Lines starting with '#' are ignored.
+192.0.2.1
+192.0.2.2
+10.0.0.50
+8.8.8.8
+192.0.0.4
+2409:40e2:1ab:fdd8:8000::
+10.255.255.1
+
